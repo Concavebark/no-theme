@@ -1,2 +1,2 @@
-# pure-html
-Github Pages website using pure html
+# no-theme
+Github Pages website not using pre-created theme
