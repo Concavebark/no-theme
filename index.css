@@ -14,3 +14,14 @@
 .p1 {
   font-family: Arial;
 }
+
+.a1 {
+  float: left;
+  margin: 100px;
+}
+
+.a2 {
+  float: left;
+  margin: 150px;
+  line-height: 35%;
+}
