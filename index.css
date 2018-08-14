@@ -1,16 +1,18 @@
 * {
-  font-family: Arial;
-}
-
-.h1 {
   font-family: Roboto;
-  text-align: center;
-  color: blue;
 }
 
-.h2 {
-  font-family: Arial;
+.headText {
+  text-align: center;
 }
+
+.pages {
+
+}
+
+.name { color: blue; }
+
+.def { color: red;}
 
 .p1 {
   font-family: Arial;
