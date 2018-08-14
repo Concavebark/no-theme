@@ -10,7 +10,7 @@
 
 .name { color: blue; }
 
-.def { color: black; font-size: 25px; }
+.def { color: black; font-size: 25px; font-style: italic; }
 
 .p1 { font-family: Arial; }
 
