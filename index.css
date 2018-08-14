@@ -1,27 +1,19 @@
-* {
-  font-family: Roboto;
-}
+* { font-family: Roboto; }
 
 .headText {
   text-align: center;
 }
 
 .pages {
-
+  font-size: 20px;
 }
 
 .name { color: blue; }
 
-.def { color: red;}
+.def { }
 
-.p1 {
-  font-family: Arial;
-}
+.p1 { font-family: Arial; }
 
-.a1 {
-  
-}
+.a1 { }
 
-.a2 {
-  
-}
+.a2 { }
