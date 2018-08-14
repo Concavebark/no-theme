@@ -1,12 +1,8 @@
 * { font-family: Roboto; }
 
-.headText {
-  text-align: center;
-}
+.headText { text-align: center; }
 
-.pages {
-  font-size: 7px;
-}
+.pages { font-size: 10px; }
 
 .name { color: blue; }
 
