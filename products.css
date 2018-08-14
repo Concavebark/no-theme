@@ -1,7 +1,5 @@
-* {
-  font-family: Arial;
-}
+* { font-family: Arial; }
 
-.1h {
-  color: blue;
-}
+.headerText { color: blue; text-align: center; }
+
+.pages { text-align: center; }
