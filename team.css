@@ -1,5 +1,5 @@
 * { font-family: Arial; }
 
-.headerText { text-align: center; }
+.headerText { text-align: center; color: red; }
 
-.pages { text-align: center; }
+.pages { text-align: center; color: blue; }
