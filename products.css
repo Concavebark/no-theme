@@ -6,4 +6,6 @@
 
 .descriptions { text-align: center; }
 
-descriptions.table { border: 1px solid black; }
+table { border: 1px solid black; }
+
+tr, td { padding: 1px; }
