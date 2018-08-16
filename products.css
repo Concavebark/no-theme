@@ -4,8 +4,8 @@
 
 .pages { text-align: center; }
 
-.descriptions { text-align: center; margin: 0 auto; }
+.descriptions { text-align: center; }
 
-table, th, td { border: 1px solid black; }
+table { border: 1px solid black; margin: auto; }
 
 tr, td { padding: 1px; }
