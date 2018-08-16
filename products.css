@@ -4,7 +4,7 @@
 
 .pages { text-align: center; }
 
-.descriptions { text-align: center; }
+.descriptions { text-align: center; margin: 0 auto; }
 
 table, th, td { border: 1px solid black; }
 
