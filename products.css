@@ -4,4 +4,6 @@
 
 .pages { text-align: center; }
 
-.descriptions { text-align: center; color:blue; }
+.descriptions { text-align: center; }
+
+descriptions.table { border: 1px solid black; }
