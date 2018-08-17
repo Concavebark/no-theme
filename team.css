@@ -1,6 +1,6 @@
 * { font-family: Arial }
 
-.headerText { font-family: 'Roboto Mono'; text-align: center; }
+.headerText { font-family: 'Roboto Mono'; text-align: center; font-size: 10px; }
 
 .pages { text-align: center; padding: 1px; }
 
