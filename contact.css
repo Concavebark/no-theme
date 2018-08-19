@@ -4,4 +4,6 @@
 
 .pages { text-align: center; }
 
-.discordText { font-weight: bold; }
+.discordLink { font-weight: bold; }
+
+.discordComment { font-style: italic; font-size: 18px; }
