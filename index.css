@@ -1,4 +1,8 @@
-* { font-family: Roboto; }
+* { 
+	font-family: Roboto; 
+	margin: 0;
+	padding: 0;
+}
 
 .headText { text-align: center; }
 
