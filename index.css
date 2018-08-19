@@ -1,8 +1,4 @@
-* { 
-	font-family: Roboto; 
-	margin: 0;
-	padding: 0;
-}
+* { font-family: Roboto; }
 
 .headText { text-align: center; }
 
@@ -13,23 +9,3 @@
 .def { color: black; font-size: 25px; font-style: italic; }
 
 .define { font-style: italic; }
-
-div#banner { 
-       position: absolute; 
-       top: 0; 
-       left: 0; 
-       background-color: #DDEEEE; 
-       width: 100%; 
-}
-
-div#banner-content { 
-       width: 800px; 
-       margin: 0 auto; 
-       padding: 10px; 
-	   text-align: center;
-	   font-weight: bold;
-}
-
-div#main-content { 
-       padding-top: 70px;
-}
